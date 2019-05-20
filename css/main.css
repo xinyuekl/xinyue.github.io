@@ -5,21 +5,21 @@ body, html {
 }
 
 body { /* General style rules for the body section */
-	background-color: black;
-	color:white;
+	background-color: pink;
+	color:coral;
 	text-align: center;
 }
 
 h1 { /* Matches elements with h1 tag */
-	color: white;
+	color: lightblue;
 	text-decoration: none;
 }
 
 	a:link {
-		color: white;
+		color: coral
 	}
 	a:visited {
-      color: coral;
+      color: lightblue;
     }
 	a:hover {
 			color: lightblue;
